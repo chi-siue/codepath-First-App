@@ -6,12 +6,13 @@ A prework home work to develop an application that introduces myslef.
 Created by
 Chisom Chidebe
 Date: 01/11/22
-Time to Complete: 4hrs to write the code and figure out the platform, 3hrs to install github and gif creation. 7hrs in total
 
+Time to Complete: 4hrs to write the code and figure out the platform, 3hrs to install github and gif creation. 7hrs in 
+
+### Github repo 
+https://github.com/chi-siue/codepath-First-App
 
 ### App Walk-though
-
-
 http://g.recordit.co/2812Q4q1Uz.gif
 
 ### Required Features
